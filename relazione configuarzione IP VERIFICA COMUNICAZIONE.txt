@@ -1,0 +1,8 @@
+Scelta della Rete: Ho selezionato la rete 192.168.1.0/24 per i dispositivi. Questo significa che tutti i dispositivi devono avere un indirizzo IP appartenente a questa rete.
+Configurazione degli IP nei PC:
+Ho cliccato su ciascun dispositivo e sei andato al desktop.
+Successivamente, hai inserito l’indirizzo IP desiderato per ciascun PC.
+Verifica della Comunicazione tra i Dispositivi:
+Utilizzando il comando ping, ho verificato se i dispositivi comunicano tra loro.
+Questo passaggio è importante per assicurarsi che la configurazione degli IP sia corretta e che i dispositivi siano in grado di scambiarsi pacchetti.
+In sintesi, hai impostato la rete, configurato gli IP e verificato la comunicazione tra i dispositivi.
